@@ -1,0 +1,147 @@
+{
+  "genesis_time": "2020-22-10T17:00:00Z",
+  "chain_id": "asset-1-mainnet",
+  "consensus_params": {
+    "block": {
+      "max_bytes": "10000000",
+      "max_gas": "100000",
+      "time_iota_ms": "1000"
+    },
+    "evidence": {
+      "max_age_num_blocks": "1000",
+      "max_age_duration": "86400000000000"
+    },
+    "validator": {
+      "pub_key_types": [
+        "ed25519"
+      ]
+    }
+  },
+  "app_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+  "app_state": {
+    "note": "Storage of virtual assets",
+    "start_height": "0",
+    "validators": [
+      {
+        "total_bip_stake": "100000000000000000000000",
+        "public_key": "",
+        "accum_reward": "0",
+        "absent_times": "________________________"
+      },
+      {
+        "total_bip_stake": "100000000000000000000000",
+        "public_key": "",
+        "accum_reward": "0",
+        "absent_times": "________________________"
+      },
+      {
+        "total_bip_stake": "100000000000000000000000",
+        "public_key": "",
+        "accum_reward": "0",
+        "absent_times": "________________________"
+      },
+      {
+        "total_bip_stake": "100000000000000000000000",
+        "public_key": "",
+        "accum_reward": "0",
+        "absent_times": "________________________"
+      },
+      {
+        "total_bip_stake": "100000000000000000000000",
+        "public_key": "",
+        "accum_reward": "0",
+        "absent_times": "________________________"
+      },
+      {
+        "total_bip_stake": "100000000000000000000000",
+        "public_key": "",
+        "accum_reward": "0",
+        "absent_times": "________________________"
+      },
+      {
+        "total_bip_stake": "100000000000000000000000",
+        "public_key": "",
+        "accum_reward": "0",
+        "absent_times": "________________________"
+      },
+      {
+        "total_bip_stake": "100000000000000000000000",
+        "public_key": "",
+        "accum_reward": "0",
+        "absent_times": "________________________"
+      },
+      {
+        "total_bip_stake": "100000000000000000000000",
+        "public_key": "",
+        "accum_reward": "0",
+        "absent_times": "________________________"
+      },
+      {
+        "total_bip_stake": "100000000000000000000000",
+        "public_key": "",
+        "accum_reward": "0",
+        "absent_times": "________________________"
+      },
+      {
+        "total_bip_stake": "100000000000000000000000",
+        "public_key": "",
+        "accum_reward": "0",
+        "absent_times": "________________________"
+      },
+      {
+        "total_bip_stake": "100000000000000000000000",
+        "public_key": "",
+        "accum_reward": "0",
+        "absent_times": "________________________"
+      }
+    ],
+    "candidates": [
+      {
+        "id": "1",
+        "reward_address": "Mx6ea3c4159384e2f4478e",
+        "owner_address": "Mx6ea6c57159384e2f4478e",
+        "control_address": "Mx6ea3c4fab7f4e2f4478e",
+        "total_bip_stake": "100000000000000000000000",
+        "public_key": "Mp704b3e29f",
+        "commission": "10",
+        "stakes": [
+          {
+            "owner": "Mx6ea3c4fab7fe098e",
+            "coin": "1",
+            "value": "25816055582466533953895900",
+            "bip_value": "1000000000000000000000000"
+          }
+        ],
+        "updates": [],
+        "status": "2"
+      }
+    ],
+    "accounts": [
+      {
+        "address": "Mx6ea3c4fab7fe09ddfebc036c57159384e2f4478e",
+        "balance": [
+          {
+            "coin": "0",
+            "value": "1000000000000000000000000"
+          }
+        ],
+        "nonce": "0"
+      }
+	],
+    "coins": [
+      {
+        "id": "1",
+        "name": "Zero",
+        "symbol": "ZERO",
+        "volume": "25816055582466533953895907",
+        "crr": "75",
+        "reserve": "123286194305312932340640191",
+        "max_supply": "1000000000000000000000000000000000",
+        "version": "0",
+        "owner_address": null
+      }
+    ],
+    "max_gas": "100000",
+    "total_slashed": "0"
+  }
+}
